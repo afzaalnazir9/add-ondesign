@@ -1,0 +1,85 @@
+
+
+<link {% if section.settings.section_preload == "true" %} href="{{ 'gp-section-517407318929835168.css' | asset_url }}" {% else %} class="gps-link" delay="{{ 'gp-section-517407318929835168.css' | asset_url }}" {% endif %} rel="stylesheet" type="text/css" media="all">
+
+      
+      
+            <section
+              class="gp-mx-auto gp-max-w-full {% if section.settings.section_preload == "false" %}gps-lazy {% endif %}"
+              style="--w:100%;--w-tablet:100%;--w-mobile:100%;--pl:0px;--pl-tablet:0px;--pl-mobile:0px;--pr:0px;--pr-tablet:0px;--pr-mobile:0px"
+            >
+              
+    <div
+      id="gKd3Qjakha"
+        style="--b:solid;--bc:#121212;--bw:0px;--shadow:none;--d:grid;--d-mobile:grid;--d-tablet:grid;--op:100%;--radius:var(--g-radius-none);--pt:50px;--pl:30px;--pb:50px;--pr:30px;--pt-mobile:30px;--pl-mobile:15px;--pb-mobile:30px;--pr-mobile:15px;--cg:32px;--pc:start;--gtc:minmax(0, 12fr);--w:100%;--w-tablet:100%;--w-mobile:100%;--bgc:transparent;--bgi:url();--bgp:50% 50%;--bgs:cover;--bgr:no-repeat;--bga:scroll"
+        class="gKd3Qjakha gp-mx-auto gp-mb-0 gp-grid gp-max-w-full gp-gap-y-0 gp-transition-colors gp-duration-200 gp-ease-in-out [&_*]:gp-max-w-full"
+    >
+    <div
+      label="Block" tag="Col" type="component"
+      style="--jc:start"
+      class="gBn0iykhLc gp-relative gp-flex gp-flex-col"
+    >
+      <div style="--b:solid;--bc:#121212;--bw:0px;--shadow:none;--d:block;--d-mobile:block;--d-tablet:block;--op:100%;--radius:var(--g-radius-none)" class="gZcFp0oxP6 ">
+      
+    <script defer strategy="lazyOnload" src="//loox.io/widget/loox.js?shop={{ request.host }}"></script>
+    <div
+      class=""
+      style="--ta:center"
+    >
+      {% if 'reviews_widget' == "rating_widget"  %}
+        {% if 'false' == 'true' %}
+          {% if shop.metafields.loox["global_stats"]  %}
+            {% assign looxstats = shop.metafields.loox["global_stats"] | split: ',' %} 
+            <a href="#looxReviews">
+              <div class="loox-rating" data-rating="{{ looxstats[0] }}" data-raters="{{ looxstats[1] }}"></div>
+            </a>
+          {% endif %}
+        {% else %}
+          <a href="#looxReviews">
+            <div id="looxReviews" data-product-id="{{ product.id }}"></div>
+          </a>
+        {% endif %}
+      {% else %}
+        <div id="looxReviews" data-product-id="{{ product.id }}"></div>
+      {% endif %}
+    </div>
+  
+      </div>
+      <style
+        id="custom-css-gZcFp0oxP6"
+      >.gZcFp0oxP6 {
+
+}
+</style>
+    
+    </div>
+    </div>
+  
+            </section>
+          
+    
+      <style
+        id="custom-css-gKd3Qjakha"
+      >.gKd3Qjakha {
+
+}
+
+
+#looxReviewsFrame .minimal-header{
+    
+    display: none !important;
+    
+}</style>
+    
+<style {% if section.settings.section_preload != "true" %}class="gps-link" type="text/disabled-css"{% endif %}></style>
+
+{% schema %}
+  {
+    
+    "name": "Section 8",
+    "tag": "section",
+    "class": "gps-517407318929835168 gps gpsil",
+    "settings": [{"type":"paragraph","content":"Section design by GemPages. [Click here to start design](https://admin.shopify.com/store/add-on-design/apps/bold/app/shopify/edit?pageType=GP_PRODUCT&editorId=517407318812394656&sectionId=517407318929835168)"},{"type":"select","label":"Section Preload","id":"section_preload","options":[{"label":"On","value":"true"},{"label":"Off","value":"false"},{"label":"Off Lazy Script","value":"off_lazy_script"}],"default":"false"}],
+    "blocks": [{"type": "@app"}]
+  }
+{% endschema %}

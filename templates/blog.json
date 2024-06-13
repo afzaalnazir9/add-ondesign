@@ -1,0 +1,284 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "disabled": true,
+      "settings": {
+        "layout": "collage",
+        "show_image": true,
+        "image_height": "medium",
+        "show_date": true,
+        "show_author": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "617e1e81-e395-4368-94ea-c0b53311a2d0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20176841507101__617e1e81-e395-4368-94ea-c0b53311a2d0-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Who are we?<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--20176841507101__617e1e81-e395-4368-94ea-c0b53311a2d0-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>Add-On<\/strong><\/em><em> <\/em><em><strong>Design<\/strong><\/em><em> <\/em>is a team consisting of professional vehicle mechanics and product designers. As car enthusiasts, our goal is to design car accessories for superior functionality and stunning aesthetics specifically for you.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20176841507101__617e1e81-e395-4368-94ea-c0b53311a2d0-heading-1",
+        "template--20176841507101__617e1e81-e395-4368-94ea-c0b53311a2d0-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "abff5624-4aaf-41b6-a780-028a4411230f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20176841507101__abff5624-4aaf-41b6-a780-028a4411230f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Brand Story<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--20176841507101__abff5624-4aaf-41b6-a780-028a4411230f-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our team firmly believes in the transformative power of simple \"<strong>Add-Ons<\/strong>\" to make a noticeable difference. With our unwavering commitment to quality, we strive to offer a range of \"<em><strong>Simple & Fancy With Quality<\/strong><\/em>\" products that elevate your driving expereriences.<br\/><br\/><em>Follow us @<\/em><a href=\"https:\/\/www.instagram.com\/addondesign\/\" title=\"https:\/\/www.instagram.com\/addondesign\/\"><em>addondesign <\/em><\/a><em>for more!<\/em><\/p>"
+          }
+        },
+        "template--20176841507101__abff5624-4aaf-41b6-a780-028a4411230f-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Subscribe",
+            "button_link": "https:\/\/www.youtube.com\/channel\/UCkcnuwhFXXJfr581nu31Fsg",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "template--20176841507101__abff5624-4aaf-41b6-a780-028a4411230f-heading-1",
+        "template--20176841507101__abff5624-4aaf-41b6-a780-028a4411230f-text-1",
+        "template--20176841507101__abff5624-4aaf-41b6-a780-028a4411230f-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "fba3916a-fc25-487c-91b0-3db1aaaff18e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20176841507101__fba3916a-fc25-487c-91b0-3db1aaaff18e-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MY_Interior_Lights_Blue.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20176841507101__fba3916a-fc25-487c-91b0-3db1aaaff18e-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fc651f8a-dac8-49fd-808d-d51265474883.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20176841507101__fba3916a-fc25-487c-91b0-3db1aaaff18e-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/902a4fb0-5330-4f6d-bff4-f97c502c28ea.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b6d1a8a1-ea9d-45b0-bd50-197568e0af32": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Add-On_HK_7.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f1c551d0-eeec-4470-84ab-0b0ffef2255f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Purple_MY_Full.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "bc9c9751-ebfb-4712-bb78-209c72a87d59": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/a8d7df6f-0457-4c1b-a6f0-0d1153f5ce62.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1965133a-08b8-4cf8-b5fd-90769b641a01": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jarvis_MY_Light.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5a67c89a-2922-4e59-b9d2-4c311b1f40cc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Add-On_HK_6.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "06afca37-d35b-4d79-8b65-6ec64718c5d1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/c0f9db60-0153-4152-b3ea-b59b15447046.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ec01c3da-c113-4de1-8839-68ea64f9928b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/a306a69c-50fc-4c1f-b2c5-8dcb9e789d79.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f76bc798-71fa-4ad3-a146-f809e922f9b5": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frunk_LED_19021153-e3ce-49bc-9ed0-e9912723ceca.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a0b61210-9147-4c38-b3fb-ab5154dc379f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Add-On_HK_3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "80729bab-6388-4e40-9ff6-e42a2f04a29f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Add-On_HK.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "cd53a5aa-97e6-40c1-ae5e-1a91d9c468b3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Add-On_HK_5_6fb2c7c3-77d8-4fa7-90c6-f741949bcd45.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e88c9a89-02a0-4157-aee2-25c4159dbd8f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Macau_M3_Logo_CHange.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20176841507101__fba3916a-fc25-487c-91b0-3db1aaaff18e-column-1",
+        "template--20176841507101__fba3916a-fc25-487c-91b0-3db1aaaff18e-column-2",
+        "template--20176841507101__fba3916a-fc25-487c-91b0-3db1aaaff18e-column-3",
+        "b6d1a8a1-ea9d-45b0-bd50-197568e0af32",
+        "f1c551d0-eeec-4470-84ab-0b0ffef2255f",
+        "bc9c9751-ebfb-4712-bb78-209c72a87d59",
+        "1965133a-08b8-4cf8-b5fd-90769b641a01",
+        "5a67c89a-2922-4e59-b9d2-4c311b1f40cc",
+        "06afca37-d35b-4d79-8b65-6ec64718c5d1",
+        "ec01c3da-c113-4de1-8839-68ea64f9928b",
+        "f76bc798-71fa-4ad3-a146-f809e922f9b5",
+        "a0b61210-9147-4c38-b3fb-ab5154dc379f",
+        "80729bab-6388-4e40-9ff6-e42a2f04a29f",
+        "cd53a5aa-97e6-40c1-ae5e-1a91d9c468b3",
+        "e88c9a89-02a0-4157-aee2-25c4159dbd8f"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Our Customers",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "617e1e81-e395-4368-94ea-c0b53311a2d0",
+    "abff5624-4aaf-41b6-a780-028a4411230f",
+    "fba3916a-fc25-487c-91b0-3db1aaaff18e"
+  ]
+}

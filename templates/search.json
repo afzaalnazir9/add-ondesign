@@ -1,0 +1,165 @@
+{
+  "sections": {
+    "5252b68d-f130-4f30-9584-dba8e5172048": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_FLAqCV": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where are we and what is the cost of shipping?",
+            "icon": "price_tag",
+            "row_content": "<p>Our headquarter is in New York, USA.  We have our product design, manufacture and fulfillment team in multiple worldwide offices and warehouses to offer you the best shipping options.  <br\/><br\/>Depending on your exact location and preferred shipping option, the cost will be provided in the checkout page.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_RCALyr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How many days will it take to receive my order and what countries are included for shipping?",
+            "icon": "truck",
+            "row_content": "<p>All orders will be processed and shipped within 24 hours after purchase. Our shipping service is available worldwide, it takes approx. 5-14 days to receive your order depending on your country of location. <\/p>",
+            "page": ""
+          }
+        },
+        "template--20176842555677__5252b68d-f130-4f30-9584-dba8e5172048-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will these accesories void my vehicle's warranty?",
+            "icon": "box",
+            "row_content": "<p><strong>No<\/strong>, it will not. Our light accessories only utilizes <strong>external powersources<\/strong>: USB\/12 Volt socket. It is a safe and non-invasive installation that does not require any wire breaking or tapping. You can confidently install our kit without worrying about voiding your Tesla's warranty.<\/p>",
+            "page": ""
+          }
+        },
+        "template--20176842555677__5252b68d-f130-4f30-9584-dba8e5172048-collapsible_row-2": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "Installation",
+            "icon": "box",
+            "row_content": "<p>Our light kit offers both<strong>EASY<\/strong>&<strong>ADVANCED<\/strong>installation solutions. You can confidently choose the installation method that suits you best. Installation tutorials are now available on YouTube, and the full manual will be provided after purchase.<\/p>",
+            "page": ""
+          }
+        },
+        "template--20176842555677__5252b68d-f130-4f30-9584-dba8e5172048-collapsible_row-3": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "<big> The difference between Easy\/Advanced Installation? <big><\/big><\/big>",
+            "icon": "box",
+            "row_content": "<p>The only difference between the Easy and Advanced installation methods lies in how the wires are positioned.<br\/><br\/><strong>Easy<\/strong>: the wires are placed on the center console, making them visible but allowing for a quicker installation. This option is ideal for DIY beginners.<br\/><strong>Advanced<\/strong>: hiding the wires inside the large panels under the center console, resulting in a clean and organized appearance with no visible wires. We highly recommend this installation method if you desire a wire-free look for your Tesla.<\/p>",
+            "page": ""
+          }
+        },
+        "420dc010-a8af-4634-9d96-27f8dd54a79c": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "How long does it take to install?",
+            "icon": "box",
+            "row_content": "<p>(Approx.)<br\/>Easy: 2.5 hours<br\/>Advanced: 4 hours<\/p>",
+            "page": ""
+          }
+        },
+        "d55d28b9-75b9-41af-9e4b-2031fb643841": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is there only 1 color option?",
+            "icon": "box",
+            "row_content": "<p>Our lighting accessories include numerous color options and modes. <\/p>",
+            "page": ""
+          }
+        },
+        "9da51de0-ed63-40a8-87ec-d8760016d59e": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "App Download",
+            "icon": "box",
+            "row_content": "<p>Download the app on apple store \/google play by scanning the<strong>QR code<\/strong>on our light kit's main connector.<\/p>",
+            "page": ""
+          }
+        },
+        "9c15bb9f-d69b-4fa7-adfe-49096908f2aa": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "How to turn On\/Off the lights?",
+            "icon": "box",
+            "row_content": "<p>There are <strong>four<\/strong> ways to do it:<\/p><ol><li>Simply press the power source button.<\/li><li>Use the app to turn the lights \"On\/Off\".<\/li><li>Schedule a specific \"On\/Off time\" through the app.<\/li><li>The lights will automatically turn off when the vehicle goes into sleep mode (off time varies by model) and turn back on when the car awakens.<\/li><\/ol>",
+            "page": ""
+          }
+        },
+        "05bbeb84-a4ef-4c7f-9c82-bf71cb26982c": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "Is there a warranty for the lights kit?",
+            "icon": "box",
+            "row_content": "<p>Our Tesla light kit comes with a<strong>one-year<\/strong>warranty as we take pride in offering top-notch quality and customer service.<\/p>",
+            "page": ""
+          }
+        },
+        "18a24785-44a2-4852-aeae-cf8739d5edae": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "More Questions?",
+            "icon": "question_mark",
+            "row_content": "<p>Please contact us through email: <strong>addondesigninternational@gmail.com<\/strong><\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_FLAqCV",
+        "collapsible_row_RCALyr",
+        "template--20176842555677__5252b68d-f130-4f30-9584-dba8e5172048-collapsible_row-1",
+        "template--20176842555677__5252b68d-f130-4f30-9584-dba8e5172048-collapsible_row-2",
+        "template--20176842555677__5252b68d-f130-4f30-9584-dba8e5172048-collapsible_row-3",
+        "420dc010-a8af-4634-9d96-27f8dd54a79c",
+        "d55d28b9-75b9-41af-9e4b-2031fb643841",
+        "9da51de0-ed63-40a8-87ec-d8760016d59e",
+        "9c15bb9f-d69b-4fa7-adfe-49096908f2aa",
+        "05bbeb84-a4ef-4c7f-9c82-bf71cb26982c",
+        "18a24785-44a2-4852-aeae-cf8739d5edae"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "<strong>Frequently Asked Questions<\/strong>",
+        "heading_size": "h0",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "accent-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-search",
+      "disabled": true,
+      "settings": {
+        "columns_desktop": 4,
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "article_show_date": true,
+        "article_show_author": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "5252b68d-f130-4f30-9584-dba8e5172048",
+    "main"
+  ]
+}

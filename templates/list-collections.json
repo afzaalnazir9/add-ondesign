@@ -1,0 +1,60 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-list-collections",
+      "disabled": true,
+      "settings": {
+        "title": "Collections",
+        "sort": "alphabetical",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "columns_mobile": "2"
+      }
+    },
+    "2c3665cb-89c0-4084-9d33-8a5c55eba67d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20176841867549__2c3665cb-89c0-4084-9d33-8a5c55eba67d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Dear Valued Customers,<\/strong>",
+            "heading_size": "h2"
+          }
+        },
+        "template--20176841867549__2c3665cb-89c0-4084-9d33-8a5c55eba67d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>For any inquiries or support, you may expect a response within 24 hours.<\/strong><br\/><br\/><strong>Email<\/strong>: <em>addondesigninternational@gmail.com<br\/><\/em><br\/><strong>Address<\/strong>: 138 W Manhattan Ave, <br\/>Santa Fe, New York, 87501<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20176841867549__2c3665cb-89c0-4084-9d33-8a5c55eba67d-heading-1",
+        "template--20176841867549__2c3665cb-89c0-4084-9d33-8a5c55eba67d-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 8
+      }
+    },
+    "07835206-8956-4897-b331-c9f1afab9314": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact Our Team",
+        "heading_size": "h2",
+        "color_scheme": "accent-1",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "main",
+    "2c3665cb-89c0-4084-9d33-8a5c55eba67d",
+    "07835206-8956-4897-b331-c9f1afab9314"
+  ]
+}

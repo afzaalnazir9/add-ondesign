@@ -1,0 +1,352 @@
+{
+  "sections": {
+    "0a4ef65b-b3e3-402f-82e2-35a69c3ce1ce": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\nvideo {\nwidth: 100%;\nheight: auto;\ndisplay: block;\nmargin: 0 auto;\n}\n<\/style>\n<video muted autoplay playsinline loop>\n    <source src=\"\/media\/cc0-videos\/flower.mp4\"\n                  type=\"video\/mp4\">\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/54258234d1164d67ac76d06e3d1b5651.mp4\"\n                  type=\"video\/mp4\">\n<\/video>",
+        "color_scheme": "",
+        "padding_top": 20,
+        "padding_bottom": 12
+      }
+    },
+    "d056ecfe-cdf0-4b36-88e2-6ca87c94c866": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20176842195229__d056ecfe-cdf0-4b36-88e2-6ca87c94c866-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>''We believe a small ADD-ON can make a huge difference.\"<\/strong><\/h2>"
+          }
+        },
+        "da104c2d-a4f7-4aaf-a2d8-cbdff511c741": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Lance, Founder<\/h3>"
+          }
+        },
+        "03994909-46f7-445d-b494-806b675bbaf3": {
+          "type": "button",
+          "settings": {
+            "button_label": "About us",
+            "button_link": "shopify:\/\/blogs\/news",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20176842195229__d056ecfe-cdf0-4b36-88e2-6ca87c94c866-text-1",
+        "da104c2d-a4f7-4aaf-a2d8-cbdff511c741",
+        "03994909-46f7-445d-b494-806b675bbaf3"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Car Accessories",
+            "heading_size": "h0"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop now",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/21.jpg",
+        "image_2": "shopify:\/\/shop_images\/22.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "large",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "fixed",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "836c143f-4ba4-4564-93f6-383f2bca6221": {
+      "type": "multirow",
+      "blocks": {
+        "template--20176842195229__836c143f-4ba4-4564-93f6-383f2bca6221-row-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Shoptify_Dreamcolor_Picture_1.png",
+            "caption": "",
+            "heading": "<strong>Dreamcolor LED Lights<\/strong>",
+            "text": "<h3>Customizable High-Tech LEDs for ONE of THREE Options<\/h3>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/tesla-model-3-y-interior-ambient-lights-roof-or-front-dashboard-center-console-rear-vent-charge-platform-dreamcolor-customizable-led-strips-model-3-y-accessories"
+          }
+        },
+        "row_wq7kgt": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SeatGapOrganizer_95bcc090-5c1e-41c7-b72f-c968b5fd2a2d.jpg",
+            "caption": "",
+            "heading": "<strong>Seat Gap Organizer<\/strong>",
+            "text": "<h3>Universal fit design. Fits all car brand models. <\/h3>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/car-crevice-storage-plug-seat-gap-filler-side-seam-plug-strip-leak-proof-seat-gap-filling-strip-universal-for-tesla"
+          }
+        },
+        "row_rBQQnk": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AudiRGB.webp",
+            "caption": "",
+            "heading": "<strong>LED Door Sills PRO<\/strong>",
+            "text": "<h3>Stylish, Personalized,  Door Sill protection.<\/h3>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/led-door-sill-pro"
+          }
+        },
+        "template--20176842195229__836c143f-4ba4-4564-93f6-383f2bca6221-row-3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_1.jpg",
+            "caption": "",
+            "heading": "<strong>Tesla Neon RGB Lights<\/strong>",
+            "text": "<p>Inc. Front Dashboard, Center Console, Rear Seats, Footwell Lights<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/teslaneonlights"
+          }
+        },
+        "template--20176842195229__836c143f-4ba4-4564-93f6-383f2bca6221-row-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Listingp.1.jpg",
+            "caption": "",
+            "heading": "<strong>Tesla Armrest Cover<\/strong>",
+            "text": "<h3>Luxurious, Strong Protection, Easy Care & Install<\/h3>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/add-on-tesla-model-3-y-center-console-armrest-cover-protector-strong-protection-and-waterproof-easy-to-clean-and-install-model-3-model-y-interior-accessories-comfortable-white"
+          }
+        }
+      },
+      "block_order": [
+        "template--20176842195229__836c143f-4ba4-4564-93f6-383f2bca6221-row-1",
+        "row_wq7kgt",
+        "row_rBQQnk",
+        "template--20176842195229__836c143f-4ba4-4564-93f6-383f2bca6221-row-3",
+        "template--20176842195229__836c143f-4ba4-4564-93f6-383f2bca6221-row-2"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6bc5ef44-d7ca-4564-828a-47374e9b9cf6": {
+      "type": "multirow",
+      "blocks": {
+        "template--20176842195229__6bc5ef44-d7ca-4564-828a-47374e9b9cf6-row-1": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/asdfsdfds.png",
+            "caption": "",
+            "heading": "<strong>External Power Sources<\/strong>",
+            "text": "<h3>No wiretapping or splitting required.<\/h3><h3>- Car's Warranty remains intact<strong> <\/strong><\/h3><h3>- <strong>USB\/12V <\/strong>Power Options<\/h3><h3><\/h3>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20176842195229__6bc5ef44-d7ca-4564-828a-47374e9b9cf6-row-2": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/qweqweqweqwe.jpg",
+            "caption": "",
+            "heading": "<strong>Clean Wiring Solution <\/strong>",
+            "text": "<h3>Say NO to mess wires.<\/h3><h3>-  Installation tutorial and manual provided<\/h3><h3>- Installation time: <strong>4 hours<\/strong><br\/><\/h3>",
+            "button_label": "Watch Tutorial",
+            "button_link": "https:\/\/www.youtube.com\/watch?v=rruewKvhC50&t=459s"
+          }
+        },
+        "template--20176842195229__6bc5ef44-d7ca-4564-828a-47374e9b9cf6-row-3": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/final_fuck.png",
+            "caption": "",
+            "heading": "<strong>Seamless<\/strong>",
+            "text": "<h3>Perfect for all Tesla Model 3 and Y.<\/h3><h3>- Patented <strong>1mm light strip<\/strong><\/h3><h3>- <strong>Black\/Transparent <\/strong>light tube<strong> <\/strong>Options<\/h3>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "6006d072-37ec-4942-a25b-1a53f5387a91": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/latest.gif",
+            "caption": "",
+            "heading": "<strong>App Control<\/strong>",
+            "text": "<h3>Control everything with just an App.<\/h3><h3>- Customizable <strong>colors<\/strong><\/h3><h3>- Adjustable <strong>brightness<\/strong><\/h3><h3>- Numerous <strong>lighting modes<\/strong>, and more  <\/h3>",
+            "button_label": "Other Features",
+            "button_link": "shopify:\/\/products\/teslaneonlights"
+          }
+        }
+      },
+      "block_order": [
+        "template--20176842195229__6bc5ef44-d7ca-4564-828a-47374e9b9cf6-row-1",
+        "template--20176842195229__6bc5ef44-d7ca-4564-828a-47374e9b9cf6-row-2",
+        "template--20176842195229__6bc5ef44-d7ca-4564-828a-47374e9b9cf6-row-3",
+        "6006d072-37ec-4942-a25b-1a53f5387a91"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "f1f1eef6-a519-4780-adfc-9d7433aa1fb4": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20176842195229__f1f1eef6-a519-4780-adfc-9d7433aa1fb4-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Tiago, Los Angeles<\/strong>",
+            "text": "<p> \"Took me 3-4 hrs to install this with my brother. I really recommend it !! Make sure to watch their YouTube video on “HOW TO” it helps a lot!!\"<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20176842195229__f1f1eef6-a519-4780-adfc-9d7433aa1fb4-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Kenneth, Texas <\/strong>",
+            "text": "<p>\"Once installed you won’t want to go back to that dark Tesla interior and you’ll notice instantly that this ambient kit is desperately needed and should be a standard option in all teslas.\"<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20176842195229__f1f1eef6-a519-4780-adfc-9d7433aa1fb4-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Paul, Florida <\/strong>",
+            "text": "<p>\"I had questions and reached out to the owner via Instagram and he replied ASAP. This was a 10\/10 experience and you have a customer for life!\"<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "89830240-b64b-464e-99ca-c3fb28eeb491": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Lisa, Washington<\/strong>",
+            "text": "<p>\"It felt like we had to take apart a lot of the interior but it was worth it to hide all wires. Took about 3.5 hours. I recommend giving yourself a lot of time, don’t rush and you’ll be thrilled with the results!\"<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20176842195229__f1f1eef6-a519-4780-adfc-9d7433aa1fb4-column-1",
+        "template--20176842195229__f1f1eef6-a519-4780-adfc-9d7433aa1fb4-column-3",
+        "template--20176842195229__f1f1eef6-a519-4780-adfc-9d7433aa1fb4-column-2",
+        "89830240-b64b-464e-99ca-c3fb28eeb491"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Customers' Feedback",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "0a4ef65b-b3e3-402f-82e2-35a69c3ce1ce",
+    "d056ecfe-cdf0-4b36-88e2-6ca87c94c866",
+    "image_banner",
+    "featured_collection",
+    "836c143f-4ba4-4564-93f6-383f2bca6221",
+    "6bc5ef44-d7ca-4564-828a-47374e9b9cf6",
+    "f1f1eef6-a519-4780-adfc-9d7433aa1fb4"
+  ]
+}

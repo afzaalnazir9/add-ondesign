@@ -1,0 +1,50 @@
+{
+  "layout": "theme.gempages.blank",
+  "sections": {
+    "gp_section_514948933387158343": {
+      "type": "gp-section-514948933387158343",
+      "settings": {
+        "section_preload": "true"
+      }
+    },
+    "gp_section_514948933370381127": {
+      "type": "gp-section-514948933370381127",
+      "settings": {
+      }
+    },
+    "gp_section_514948933387092807": {
+      "type": "gp-section-514948933387092807",
+      "settings": {
+      }
+    },
+    "gp_section_514948933387027271": {
+      "type": "gp-section-514948933387027271",
+      "settings": {
+      }
+    },
+    "gp_section_514948933370315591": {
+      "type": "gp-section-514948933370315591",
+      "settings": {
+      }
+    },
+    "gp_section_514948933387223879": {
+      "type": "gp-section-514948933387223879",
+      "settings": {
+      }
+    },
+    "gp_section_514948933370250055": {
+      "type": "gp-section-514948933370250055",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "gp_section_514948933387158343",
+    "gp_section_514948933370381127",
+    "gp_section_514948933387092807",
+    "gp_section_514948933387027271",
+    "gp_section_514948933370315591",
+    "gp_section_514948933387223879",
+    "gp_section_514948933370250055"
+  ]
+}

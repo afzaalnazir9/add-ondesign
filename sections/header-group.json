@@ -1,0 +1,63 @@
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "LIMITED - TIME DEAL",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-bar-0"
+      ],
+      "custom_css": [
+        ".announcement-bar {padding: 2px 0px;}",
+        ".announcement-bar__message {font-size: 16px; font-weight: bold; letter-spacing: 0px;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-a356823f-9c96-4904-8e8a-c766916abeed",
+        "show_line_separator": false,
+        "show_social": false,
+        "auto_rotate": true,
+        "change_slides_speed": 4,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "custom_css": [
+        ".header__active-menu-item {text-decoration: none;}",
+        ".list-menu__item {text-transform: uppercase;}",
+        ".section-header {position: sticky; margin-bottom: 0px;}",
+        ".menu-drawer__menu-item {font-weight: bold;}",
+        "@media screen and (min-width: 750px) {.section-header {margin-bottom: 0px; } }"
+      ],
+      "settings": {
+        "logo_position": "middle-center",
+        "menu": "main-menu",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "always",
+        "show_line_separator": true,
+        "color_scheme": "accent-1",
+        "menu_color_scheme": "background-1",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 8,
+        "padding_top": 4,
+        "padding_bottom": 4
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
